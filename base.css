@@ -19,7 +19,7 @@
   --spacing-triple: calc(var(--spacing) * 3);
   --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
   --font-family-monospace: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-  --font-size-xsm:11px;
+  --font-size-xsm: 11px;
   --font-size-sm: 13px;
   --font-size: 14px;
   --font-size-md: 17px;
@@ -51,7 +51,7 @@
   --sidebar-width: 260px;
   --member-height: 42px;
   --channel-height: 32px;
-  --avatar-size-xsm:21px;
+  --avatar-size-xsm: 21px;
   --avatar-size-sm: 27px;
   --avatar-size: 31px;
   --avatar-size-lg: 49px;
